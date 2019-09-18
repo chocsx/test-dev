@@ -1,0 +1,15 @@
+{
+    "name": "chocsx/test-dev",
+    "description": "Estadao Test Dev",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Mateus Sobrinho",
+            "email": "mateus.webphp@gmail.com"
+        }
+    ],
+    "require": {
+        "slim/slim": "4.0.0-beta"
+    }
+}
